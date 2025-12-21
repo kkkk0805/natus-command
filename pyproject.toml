@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "natus-command"
+version = "2025.12.21112934"
+description = "A new package designed to interpret user descriptions of system maintenance, backup routines, and dotfile management tasks, and convert them into structured commands or step-by-step procedures. It tak"
+readme = "README.md"
+authors = [{ name = "natus-command", email = "hi@eugene.plus" }]
+requires-python = ">=3.9"
+dependencies = [
+  "langchain-llm7>=0.0.0",
+  "llmatch-messages>=0.0.0",
+  "langchain-core>=0.3.0",
+]
+license = { text = "MIT" }
+
+[project.urls]
+Homepage = "https://github.com/chigwell/natus-command"
